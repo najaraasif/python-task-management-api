@@ -5,6 +5,7 @@ A production-style RESTful Task Management API built with Python, FastAPI, Pydan
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-REST%20API-green)](https://fastapi.tiangolo.com/)
 [![Tests](https://img.shields.io/badge/Tests-16%20Passing-brightgreen)](#testing)
+[![CI](https://github.com/najaraasif/python-task-management-api/actions/workflows/tests.yml/badge.svg)](https://github.com/najaraasif/python-task-management-api/actions/workflows/tests.yml)
 
 ## Overview
 
